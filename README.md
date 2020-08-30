@@ -8,7 +8,7 @@ by YFII Global Community
 
 ---
 
-## Introduction
+## Part I Introduction
 
 **Y**FII's **F**or **I**nnovative **I**nvestment. YFII Finance is a community-owned DeFi infrastructure where its users determine what products they want and enjoy the yields. It's permissionless for all the people to join. Currently it has [two pools](./yield-farming.md) that yield YFII tokens as well as CRV and BAL rewards. The killer product of YFII is the [Vault](./vault.md) which allows retail investors to enjoy the highest APR for yield farming with just one click.
 
